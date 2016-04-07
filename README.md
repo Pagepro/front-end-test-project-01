@@ -9,8 +9,8 @@ Convert the following PSD (Photoshop) web design to HTML/CSS/JS.
 ![Pagepro](front-end-test-project-01.jpg)
 
 ## Requirements
-1. Create project using the latest version of [LibSasserPlate](https://github.com/Pagepro/libsasserplate)
-2. Use HTML5 / SCSS
+1. Create project using the latest version of [HTML5Boilerplate](https://html5boilerplate.com/)
+2. Use HTML5 / CSS
 3. Create page called Home and place the elements on it
 
 
